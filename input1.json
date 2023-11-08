@@ -1,0 +1,40 @@
+[
+  {
+    "logo": "https://media.glassdoor.com/sql/6036/amazon-squarelogo-1552847650117.png",
+    "name": "Amazon",
+    "rating": "3.8",
+    "reviewsLink": "https://www.glassdoor.com/Reviews/Amazon-Reviews-E6036.htm",
+    "reviewsCount": "175.6K",
+    "reviewsText": "https://www.glassdoor.com/Salary/Amazon-Salaries-E6036.htm",
+    "salariesLink": "https://www.glassdoor.com/Reviews/Amazon-Reviews-E6036.htm",
+    "salariesCount": "209.8K",
+    "jobsLink": "https://www.glassdoor.com/Jobs/Amazon-Jobs-E6036.htm",
+    "jobsCount": "10.4K",
+    "location": "25 office locations in United States",
+    "locationLink": "https://www.glassdoor.com/Location/All-Amazon-Office-Locations-E6036.htm",
+    "companySize": "10000+ Employees",
+    "companyType": "Internet & Web Services",
+    "description": "All Amazon teams and businesses, from Prime delivery to AWS, are guided by four key tenets: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking.  \n\nWe are driven by the excitement of building technologies, inventing products, and providing services that transform the way our customers live their lives and run their businesses.",
+    "id": 1,
+    "interviewsLink": "https://www.glassdoor.com/Interview/Amazon-Interview-Questions-E6036.htm"
+  },
+  {
+    "logo": "https://media.glassdoor.com/sql/354/ibm-squareLogo-1680100245029.png",
+    "name": "IBM",
+    "rating": "4.0",
+    "reviewsLink": "https://www.glassdoor.com/Reviews/IBM-Reviews-E354.htm",
+    "reviewsCount": "105.4K",
+    "reviewsText": "https://www.glassdoor.com/Salary/IBM-Salaries-E354.htm",
+    "salariesLink": "https://www.glassdoor.com/Reviews/IBM-Reviews-E354.htm",
+    "salariesCount": "74.4K",
+    "jobsLink": "https://www.glassdoor.com/Jobs/IBM-Jobs-E354.htm",
+    "jobsCount": "4K",
+    "location": "2 office locations in United States",
+    "locationLink": "https://www.glassdoor.com/Location/All-IBM-Office-Locations-E354.htm",
+    "companySize": "10000+ Employees",
+    "companyType": "Information Technology Support Services",
+    "description": "IBM works to design, advance, and scale the technologies that define each era. Restlessly reinventing since 1911, we are one of the largest technology, consulting and research companies in the world. \u000b \u000bIBMers are agents of change – in this team, you’ll become a part of a historic, prestigious, and global community in which you’ll be respected, and your talents will have a real impact. \n\nJoin our team of experts and thrive in a collaborative and friendly environment where you can bring your whole self at work. Use your skills to empower clients and partners to create something that is bigger than what any one of us could produce alone.\n\nCome and let’s create together!",
+    "id": 2,
+    "interviewsLink": "https://www.glassdoor.com/Interview/IBM-Interview-Questions-E354.htm"
+  }
+]
